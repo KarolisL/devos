@@ -70,15 +70,13 @@
         ]
       },
       "locked": {
-        "lastModified": 1633373878,
-        "narHash": "sha256-9+ziZ8l6rq3yXyY6B0wYXrVdfxr6cdpEbPEGRHywBKc=",
-        "owner": "divnix",
+        "owner": "KarolisL",
         "repo": "bud",
-        "rev": "4e709a2fcf19df500ba87d9c3b1b1481401cd53b",
+        "rev": "2406c029618925c1694165e1d8dfc5111f7acab5",
         "type": "github"
       },
       "original": {
-        "owner": "divnix",
+        "owner": "KarolisL",
         "repo": "bud",
         "type": "github"
       }
